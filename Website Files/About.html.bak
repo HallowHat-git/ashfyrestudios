@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang = "en">
+	<head>
+		<title> About </title>
+		<link rel = "stylesheet" type = "text/css" href = "style.css">
+	</head>
+
+	<body>
+		<div id "header" class = "header">
+			<h1 class = "h1"> About </h1>
+		</div>
+		<ul class = "ul">
+			<li><a href = "Ashfyre.html">Home<a></li> 
+			<li><a href = "Games.html">Games<a></li>
+			<li class = "active"><a href = "About.html">About<a></li>
+			<li><a href = "#Yana<3">Shop<a></li>
+			<li><a href = "Contact.html">Contact<a></li>
+		</ul>
+		<div id = "content" class = "wcontent">
+			<h1 class = "h1"> About Ashfyre </h1>
+			<p class = "p"> Ashfyre is a game development company that was officially established on December 31st, 2020. It was made by two bestfriends, Maria Mariano and William Greene. </p>
+		</div>
+		<div id "bottom_nav" class = "nav">
+			<ul>
+				<li><a href = "Ashfyre_Studios.html">Home<a></li> 
+				<li><a href = "Games.html">Games<a></li>
+				<li class = "active"><a href = "About.html">About<a></li>
+				<li><a href = "#Yana<3">Shop<a></li>
+				<li><a href = "Contact.html">Contact<a></li>
+			</ul>
+		</div>
+		<div id "footer" class = "footer">
+			<p class = "p"> Feet:P </p>
+		</div>
+		<!--So, like, of course the plan is to make a intro statement and dynamic content, so these are placeholders-->	
+	</body>
+
+</html>
